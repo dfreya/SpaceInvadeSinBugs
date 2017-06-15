@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Aliem
+comment1.params=
+comment1.target=Aliem()
+comment2.params=anchoDeLaEscena
+comment2.target=void\ mover(int)
+comment3.params=
+comment3.target=D_Aliem\ disparar()
+comment4.params=
+comment4.target=int\ getPuntos()
+numComments=5

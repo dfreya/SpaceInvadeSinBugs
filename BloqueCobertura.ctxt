@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=BloqueCobertura
+comment1.params=valorX
+comment1.target=BloqueCobertura(int)
+comment2.params=
+comment2.target=int\ getVida()
+comment3.params=nuevaVida
+comment3.target=void\ setVida(int)
+numComments=4
